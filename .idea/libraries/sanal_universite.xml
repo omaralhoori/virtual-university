@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sanal_universite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/sanal_universite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+Thumbs.db
+.DS_Store
+*.iml
+.idea
+.gradle
+out
+local.properties
+build/classes/
+build/dependency-cache/
+build/reports/
+build/test-result/
+build/tmp/
+gradle/

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sqlite-jdbc-3.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AnimatonClass.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JPanelSlider.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NefAnimacion_V2.1_jdk18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
